@@ -1,0 +1,9 @@
+export * as Tanki from '/mods/Tanki/mod.js';
+export * as Test from '/mods/Test/mod.js';
+export * as Resources from '/mods/Resources/mod.js';
+export * as Packages from '/mods/Packages/mod.js';
+export * as BetterUI from '/mods/BetterUI/mod.js';
+export * as BetterVisibility from '/mods/BetterVisibility/mod.js';
+export * as EmptyLobby from '/mods/EmptyLobby/mod.js';
+export * as PackageViewer from '/mods/PackageViewer/mod.js';
+export * as Codecs from '/mods/Codecs/mod.js';
